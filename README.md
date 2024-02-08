@@ -3,6 +3,13 @@
 GitHub Pages機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
 https://elmas3.github.io/mao-seminar/
 
+# メンバー構成
+田中
+佐藤
+伊藤
+後藤
+喜多
+
 # ディレクトリ構成
 ```
 seminar/
